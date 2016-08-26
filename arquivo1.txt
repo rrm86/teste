@@ -1,1 +1,6 @@
-arquivo 1
+Para usar o github é necessário: 
+Criar um repositório online
+Rodar o comando local git remote add origin "url"
+Para verificar se está tudo correto rodar o comando git remote -v
+Enviar as alterações: git push origin master
+
